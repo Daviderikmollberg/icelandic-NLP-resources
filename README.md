@@ -32,6 +32,9 @@ If you notice a category or resource is missing or have suggestions on how to im
 ### [IceNLP](https://github.com/hrafnl/icenlp)
   * Java toolkit which does tokenization, POS tagging, lemmatization, parsing and NER
   * Developed by [Hrafn Loftsson](http://www.ru.is/faculty/hrafn/)
+### Kvistur 2.0
+  * A BiLSTM Compound Splitter for Icelandic
+  * The [Git-repo](https://github.com/jonfd/kvistur)
 ### [LVL-tts-frontend](https://github.com/cadia-lvl/lvl_tts_frontend)
 * TTS frontend designed to work with the [Merlin](https://github.com/CSTR-Edinburgh/merlin) speech synthesis system developed by [CSTR](http://www.cstr.ed.ac.uk/)
 * It contains a pronunciation dictionary, sequitur g2p model, stress analysis component and more. Unfortunately it does not include any documentation.
@@ -64,3 +67,6 @@ If you notice a category or resource is missing or have suggestions on how to im
 
 ## Stress analysis [↑](#contents)
 * [LVL-tts-frontend](#lvl-tts-frontend) performs stress analysis
+
+## Corpora papers
+* [Samrómur Data collection](Samrómur: Crowd-sourcing Data Collection for Icelandic Speech Recognition)
